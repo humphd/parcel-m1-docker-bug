@@ -1,0 +1,11 @@
+{
+  "name": "parcel-bug",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "parcel build index.html"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "parcel": "^2.8.0"
+  }
+}
